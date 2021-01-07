@@ -1,0 +1,23 @@
+.slider .carousel-inner .rtl{
+    left: 480px;
+    font-family: arial;
+    font-weight: bold;
+    text-align: end;
+}
+.slider .carousel-inner h1 span{
+    display: inline;
+    padding: 0px 30px 13px;
+}
+.price-table .container {
+    margin-left: 55px;
+}
+.price-table ul{
+    direction: ltr;
+}
+nav .container{
+    direction: ltr;
+}
+.chose{
+    display: flex;
+    margin: 15px 0 0 0;
+}
